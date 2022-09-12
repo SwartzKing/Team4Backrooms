@@ -1,0 +1,1819 @@
+﻿Log file open, 09/04/22 09:36:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9308)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BackroomsGraybox
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" -EpicPortal -epicusername=Vonadi -epicuserid=d229a6b11bf74fb2b2d4cccb8c822f8d -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="81c6863e4bfc636bc3492789340b9def"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.493842
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BD5F816940AFF11AD2D8E4954CE8C030
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Vonadi -epicuserid=d229a6b11bf74fb2b2d4cccb8c822f8d -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: E:/Ian Beavers/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.04-13.36.51:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.04-13.36.51:127][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.04-13.36.51:127][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.04-13.36.51:127][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.04-13.36.51:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.04-13.36.51:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.04-13.36.51:128][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.04-13.36.51:128][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.04-13.36.51:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.04-13.36.51:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.04-13.36.51:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.04-13.36.51:131][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.04-13.36.51:174][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.04-13.36.51:174][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.04-13.36.51:415][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.04-13.36.51:415][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 1 output[s]
+[2022.09.04-13.36.51:426][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.04-13.36.51:426][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 0 output[s]
+[2022.09.04-13.36.51:426][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.04-13.36.51:426][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.04-13.36.51:426][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.04-13.36.51:426][  0]LogHAL: Display: Platform has ~ 16 GB [17137520640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.04-13.36.51:426][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.04-13.36.51:426][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.04-13.36.51:426][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.04-13.36.51:427][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.04-13.36.51:427][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/BackroomsGraybox/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.04-13.36.51:427][  0]LogInit: Computer: IANDESKTOPNZXT
+[2022.09.04-13.36.51:427][  0]LogInit: User: Vonadi
+[2022.09.04-13.36.51:427][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.04-13.36.51:427][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.04-13.36.51:427][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.09.04-13.36.51:427][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.04-13.36.51:427][  0]LogMemory: Process Physical Memory: 260.69 MB used, 269.86 MB peak
+[2022.09.04-13.36.51:427][  0]LogMemory: Process Virtual Memory: 204.10 MB used, 204.10 MB peak
+[2022.09.04-13.36.51:427][  0]LogMemory: Physical Memory: 10220.27 MB used,  6123.34 MB free, 16343.61 MB total
+[2022.09.04-13.36.51:427][  0]LogMemory: Virtual Memory: 16244.07 MB used,  9827.54 MB free, 26071.61 MB total
+[2022.09.04-13.36.51:427][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.04-13.36.51:434][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.04-13.36.51:446][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.04-13.36.51:446][  0]LogInit: Using OS detected language (en-US).
+[2022.09.04-13.36.51:446][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.04-13.36.51:449][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.04-13.36.51:636][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.04-13.36.51:654][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.04-13.36.51:654][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.04-13.36.51:654][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.04-13.36.51:673][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.04-13.36.51:673][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.04-13.36.51:789][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.04-13.36.51:793][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.04-13.36.51:793][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.04-13.36.51:879][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.04-13.36.51:956][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.04-13.36.51:963][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.04-13.36.51:976][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.04-13.36.52:000][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.04-13.36.52:000][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.04-13.36.52:054][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.09.04-13.36.52:055][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.04-13.36.52:055][  0]LogWindows: Attached monitors:
+[2022.09.04-13.36.52:055][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY6' [PRIMARY]
+[2022.09.04-13.36.52:055][  0]LogWindows: Found 1 attached monitors.
+[2022.09.04-13.36.52:055][  0]LogWindows: EnumDisplayDevices:
+[2022.09.04-13.36.52:055][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY6'
+[2022.09.04-13.36.52:055][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.04-13.36.52:056][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.09.04-13.36.52:056][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY9'
+[2022.09.04-13.36.52:056][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.04-13.36.52:056][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.09.04-13.36.52:056][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.04-13.36.52:056][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.09.04-13.36.52:056][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.09.04-13.36.52:056][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.04-13.36.52:056][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.04-13.36.52:073][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.04-13.36.52:078][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject"  -platform=all'
+[2022.09.04-13.36.52:078][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject"  -platform=all" ]
+[2022.09.04-13.36.52:103][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.04-13.36.52:109][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.04-13.36.52:109][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.04-13.36.52:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.04-13.36.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.04-13.36.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.04-13.36.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.04-13.36.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.04-13.36.52:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.04-13.36.52:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.04-13.36.52:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.04-13.36.52:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.04-13.36.52:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.04-13.36.52:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.04-13.36.52:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.04-13.36.52:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.04-13.36.52:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.04-13.36.52:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.04-13.36.52:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.04-13.36.52:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.04-13.36.52:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.04-13.36.52:165][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.04-13.36.52:170][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.04-13.36.52:172][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.04-13.36.52:172][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.04-13.36.52:172][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.04-13.36.52:172][  0]LogTargetPlatformManager:   PCM
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager:   BINKA
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager:   OGG
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.04-13.36.52:174][  0]LogTargetPlatformManager:   OPUS
+[2022.09.04-13.36.52:213][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.04-13.36.52:217][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.04-13.36.52:218][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.04-13.36.52:218][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.04-13.36.52:218][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.04-13.36.52:218][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.04-13.36.52:220][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.04-13.36.52:220][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.04-13.36.52:221][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/BackroomsGraybox/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.04-13.36.52:226][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.04-13.36.52:226][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/BackroomsGraybox/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.04-13.36.52:231][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.04-13.36.52:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/BackroomsGraybox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.04-13.36.52:233][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.04-13.36.52:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/BackroomsGraybox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.04-13.36.52:233][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.04-13.36.52:255][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.04-13.36.52:255][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.04-13.36.52:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.04-13.36.52:255][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.04-13.36.52:263][  0]LogDerivedDataCache: Speed tests for C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.04-13.36.52:263][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1267.47MBs, RandomWriteSpeed=149.53MBs. Assigned SpeedClass 'Local'
+[2022.09.04-13.36.52:264][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.04-13.36.52:264][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.04-13.36.52:264][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.04-13.36.52:271][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.04-13.36.52:271][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.04-13.36.52:272][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/Unreal Projects/BackroomsGraybox/Intermediate/Shaders/WorkingDirectory/17352/).
+[2022.09.04-13.36.52:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ian Beavers/AppData/Local/Temp/UnrealShaderWorkingDir/09C3CBDA486503325E3C698A395D5516/'.
+[2022.09.04-13.36.52:272][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.04-13.36.52:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.04-13.36.53:893][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.04-13.36.53:893][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.04-13.36.53:931][  0]LogAssetRegistry: FAssetRegistry took 0.0122 seconds to start up
+[2022.09.04-13.36.53:937][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.04-13.36.54:163][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.04-13.36.54:164][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.04-13.36.54:425][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.04-13.36.54:425][  0]LogDeviceProfileManager: Active device profile: [00000688902A5CC0][0000068885675000 50] WindowsEditor
+[2022.09.04-13.36.54:425][  0]LogDeviceProfileManager: Profiles: [00000688902A5780][0000068885672800 50] Windows, [00000688902A5CC0][0000068885675000 50] WindowsEditor, [00000688902A1DC0][00000688855F7800 50] WindowsServer, [00000688902A1C00][000006888559C800 50] WindowsClient, [00000688902A3800][0000068885670000 50] IOS, [00000688902A5400][0000068878DAA000 50] iPadAir2, [00000688902A63C0][0000068890502800 50] IPadPro, [00000688902A6740][0000068890500000 50] iPadAir3, [00000688902A2300][0000068890507800 50] iPadAir4, [00000688902A1180][000006889050A000 50] iPadMini4, [00000688902A6580][000006889050C800 50] iPadMini5, [00000688902A6900][0000068888F6C800 50] iPadMini6, [00000688902A9140][00000688904F5000 50] iPhone6S, [00000688902A94C0][00000688904F2800 50] iPhone7, [00000688902A9840][00000688904F0000 50] iPodTouch7, [00000688902A1F80][00000688904FA000 50] iPhone6SPlus, [00000688902A9680][00000688904FC800 50] iPhone7Plus, [00000688902A9300][0000068890505000 50] iPhoneSE, [00000688902A0FC0][0000068890520000 50] iPhone8, [00000688902A55C0][0000068890525000 50] iPhone8Plus, [00000688902A71C0][0000068890527800 50] iPhoneX, [00000688902A5B00][000006889052A000 50] iPhoneXS, [00000688902A39C0][000006889052C800 50] iPhoneXSMax, [00000688902A5080][00000688904F7800 50] iPhoneXR, [00000688902A8180][0000068890530000 50] iPhone11, [00000688902A5240][0000068890535000 50] iPhone11Pro, [00000688902A2BC0][0000068890537800 50] iPhone11ProMax, [00000688902A2140][000006889053A000 50] iPhoneSE2, [00000688902A7A80][000006889053C800 50] iPhone12Mini, [00000688902A4D00][0000068890522800 50] iPhone12, [00000688902A2F40][0000068890540000 50] iPhone12Pro, [00000688902A32C0][0000068890545000 50] iPhone12ProMax, [00000688902A8500][0000068890547800 50] iPhone13Mini, [00000688902A7C40][000006889054A000 50] iPhone13, [00000688902A2A00][000006889054C800 50] iPhone13Pro, [00000688902A8A40][0000068890532800 50] iPhone13ProMax, [00000688902A78C0][0000068890550000 50] iPadPro105, [00000688902A6E40][0000068890555000 50] iPadPro129, [00000688902A4980][0000068890557800 50] iPadPro97, [00000688902A3D40][000006889055A000 50] iPadPro2_129, [00000688902A8C00][000006889055C800 50] iPad5, [00000688902A7E00][0000068890542800 50] iPad6, [00000688902A7FC0][0000068890560000 50] iPad7, [00000688902A3480][0000068890565000 50] iPad8, [00000688902A47C0][0000068890567800 50] iPad9, [00000688902A4600][000006889056A000 50] iPadPro11, [00000688902A4B40][000006889056C800 50] iPadPro2_11, [00000688902A2840][0000068890552800 50] iPadPro3_11, [00000688902A6C80][0000068890580000 50] iPadPro3_129, [00000688902A6040][0000068890585000 50] iPadPro4_129, [00000688902A40C0][0000068890587800 50] iPadPro5_129, [00000688902A1340][000006889058A000 50] AppleTV, [00000688902A7540][000006889058C800 50] AppleTV4K, [00000688902A4280][0000068890562800 50] TVOS, [00000688902AB7C0][0000068890592800 50] Mac, [00000688902ABB40][0000068890590000 50] MacEditor, [00000688902A24C0][0000068890597800 50] MacClient, [00000688902A6AC0][000006889059A000 50] MacServer, [00000688902ABEC0][0000068890582800 50] Linux, [00000688902AC240][000006889059C800 50] LinuxEditor, [00000688902AAF00][00000688905A0000 50] LinuxArm64Editor, [00000688902A9BC0][00000688905A5000 50] LinuxArm64, [00000688902A3100][00000688905A7800 50] LinuxClient, [00000688902AC5C0][00000688905AA000 50] LinuxArm64Client, [00000688902AAD40][00000688905AC800 50] LinuxServer, [00000688902A3640][0000068890595000 50] LinuxArm64Server, [00000688902A6200][00000688905B0000 50] Android, [00000688902AB440][00000688905B5000 50] Android_Preview_OpenGL, [00000688902A7700][00000688905B7800 50] Android_Preview_Vulkan, [00000688902AB280][00000688905BA000 50] Android_Low, [00000688902A2D80][00000688905BC800 50] Android_Mid, [00000688902A1A40][00000688905A2800 50] Android_High, [00000688902A86C0][00000688905C0000 50] Android_Default, [00000688902ACB00][00000688905C5000 50] Android_Adreno4xx, [00000688902AC080][00000688905C7800 50] Android_Adreno5xx_Low, [00000688902AA800][00000688905CA000 50] Android_Adreno5xx, [00000688902AA2C0][00000688905CC800 50] Android_Adreno6xx, [00000688902A4440][00000688905B2800 50] Android_Adreno6xx_Vulkan, [00000688902A8340][00000688905D0000 50] Android_Adreno7xx, [00000688902A7380][00000688905D5000 50] Android_Adreno7xx_Vulkan, [00000688902AB980][00000688905D7800 50] Android_Mali_T6xx, [00000688902A8F80][00000688905DA000 50] Android_Mali_T7xx, [00000688902AC940][00000688905DC800 50] Android_Mali_T8xx, [00000688902A9F40][00000688905C2800 50] Android_Mali_G71, [00000688902A2680][00000688905E0000 50] Android_Mali_G72, [00000688902A3B80][00000688905E5000 50] Android_Mali_G72_Vulkan, [00000688902AD3C0][00000688905E7800 50] Android_Mali_G76, [00000688902A9A00][00000688905EA000 50] Android_Mali_G76_Vulkan, [00000688902A7000][00000688905EC800 50] Android_Mali_G77, [00000688902A8880][00000688905D2800 50] Android_Mali_G77_Vulkan, [00000688902AD580][00000688905F0000 50] Android_Mali_G78, [00000688902AA9C0][00000688905F5000 50] Android_Mali_G78_Vulkan, [00000688902AD900][00000688905F7800 50] Android_Mali_G710, [00000688902ABD00][00000688905FA000 50] Android_Mali_G710_Vulkan, [00000688902AAB80][00000688905FC800 50] Android_Xclipse_920, [00000688902AE380][00000688905E2800 50] Android_Xclipse_920_Vulkan, [00000688902AA640][0000068890600000 50] Android_Vulkan_SM5, [00000688902AD200][0000068890605000 50] Android_PowerVR_G6xxx, [00000688902A3F00][0000068890607800 50] Android_PowerVR_GT7xxx, [00000688902ACCC0][000006889060A000 50] Android_PowerVR_GE8xxx, [00000688902AD040][000006889060C800 50] Android_PowerVR_GM9xxx, [00000688902AE700][00000688905F2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000688902A8DC0][0000068890610000 50] Android_TegraK1, [00000688902AF340][0000068890615000 50] Android_Unknown_Vulkan, [00000688902AA100][0000068890617800 50] Oculus_Quest, [00000688902AEA80][000006889061A000 50] Oculus_Quest2, [00000688902A9D80][000006889061C800 50] HoloLens, 
+[2022.09.04-13.36.54:425][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.04-13.36.54:450][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.04-13.36.54:665][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.04-13.36.54:665][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.04-13.36.54:665][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.04-13.36.54:665][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.04-13.36.54:665][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.04-13.36.54:681][  0]LogNetVersion: BackroomsGraybox 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 74855471)
+[2022.09.04-13.36.54:826][  0]LogSlate: Border
+[2022.09.04-13.36.54:826][  0]LogSlate: BreadcrumbButton
+[2022.09.04-13.36.54:826][  0]LogSlate: Default
+[2022.09.04-13.36.54:826][  0]LogSlate: Icons.Save
+[2022.09.04-13.36.54:826][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.04-13.36.54:826][  0]LogSlate: ListView
+[2022.09.04-13.36.54:826][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.04-13.36.54:826][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.04-13.36.54:826][  0]LogSlate: TableView.DarkRow
+[2022.09.04-13.36.54:826][  0]LogSlate: TableView.Row
+[2022.09.04-13.36.54:826][  0]LogSlate: TreeView
+[2022.09.04-13.36.55:026][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.55:061][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.55:061][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.55:204][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.04-13.36.55:204][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.04-13.36.55:204][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.04-13.36.55:553][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 75C655EC49497D71F39DA8B7D5C39930 | Instance: 82B57644413B448FFF4C9E8744DA5636 (IANDESKTOPNZXT-17352).
+[2022.09.04-13.36.55:587][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.04-13.36.55:595][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.04-13.36.55:633][  0]LogPython: Using Python 3.9.7
+[2022.09.04-13.36.56:597][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.56:600][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.56:953][  0]SourceControl: Source control is disabled
+[2022.09.04-13.36.56:955][  0]LogUProjectInfo: Found projects:
+[2022.09.04-13.36.57:057][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.04-13.36.57:074][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.04-13.36.57:074][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.04-13.36.57:237][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.04-13.36.57:244][  0]LogCollectionManager: Loaded 0 collections in 0.001119 seconds
+[2022.09.04-13.36.57:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BackroomsGraybox/Saved/Collections/' took 0.00s
+[2022.09.04-13.36.57:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BackroomsGraybox/Content/Developers/Vonadi/Collections/' took 0.00s
+[2022.09.04-13.36.57:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BackroomsGraybox/Content/Collections/' took 0.00s
+[2022.09.04-13.36.57:663][  0]LogEngine: Initializing Engine...
+[2022.09.04-13.36.57:679][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.04-13.36.57:697][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.04-13.36.57:997][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.04-13.36.57:998][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.04-13.36.58:010][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.04-13.36.58:045][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.04-13.36.58:047][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.04-13.36.58:075][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.04-13.36.58:075][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.04-13.36.58:075][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.04-13.36.58:076][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.04-13.36.58:076][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.04-13.36.58:076][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.04-13.36.58:076][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.04-13.36.58:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.04-13.36.58:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.04-13.36.58:076][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.04-13.36.58:077][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.04-13.36.58:077][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.04-13.36.58:077][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.04-13.36.58:077][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.04-13.36.58:077][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.04-13.36.58:077][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.04-13.36.58:085][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.04-13.36.58:142][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX 7.1 Audio)
+[2022.09.04-13.36.58:143][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.04-13.36.58:145][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.04-13.36.58:145][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.04-13.36.58:145][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.04-13.36.58:145][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.04-13.36.58:147][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.04-13.36.58:147][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.04-13.36.58:147][  0]LogInit: FAudioDevice initialized.
+[2022.09.04-13.36.58:147][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.04-13.36.58:147][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.04-13.36.58:147][  0]LogInit: Texture streaming: Enabled
+[2022.09.04-13.36.58:190][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.04-13.36.58:201][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.04-13.36.58:236][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.04-13.36.58:246][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.04-13.36.58:246][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.04-13.37.00:229][  0]LogLiveCoding: Display: First instance in process group "UE_BackroomsGraybox_0xd10e73be", spawning console
+[2022.09.04-13.37.00:229][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.04-13.37.00:229][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.04-13.37.00:254][  0]LogInit: Transaction tracking system initialized
+[2022.09.04-13.37.00:348][  0]BlueprintLog: New page: Editor Load
+[2022.09.04-13.37.00:590][  0]LocalizationService: Localization service is disabled
+[2022.09.04-13.37.00:658][  0]TimingProfiler: Initialize
+[2022.09.04-13.37.00:658][  0]TimingProfiler: OnSessionChanged
+[2022.09.04-13.37.00:658][  0]LoadingProfiler: Initialize
+[2022.09.04-13.37.00:658][  0]LoadingProfiler: OnSessionChanged
+[2022.09.04-13.37.00:658][  0]NetworkingProfiler: Initialize
+[2022.09.04-13.37.00:658][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.04-13.37.00:658][  0]MemoryProfiler: Initialize
+[2022.09.04-13.37.00:658][  0]MemoryProfiler: OnSessionChanged
+[2022.09.04-13.37.01:479][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BackroomsGraybox/Content/' took 0.01s
+[2022.09.04-13.37.01:479][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.04-13.37.01:574][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.04-13.37.01:575][  0]SourceControl: Source control is disabled
+[2022.09.04-13.37.01:575][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.050
+[2022.09.04-13.37.01:576][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.04-13.37.01:576][  0]LightingResults: New page: Lighting Build
+[2022.09.04-13.37.01:584][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-13.37.01:584][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-13.37.01:585][  0]MapCheck: New page: Map Check
+[2022.09.04-13.37.01:585][  0]LightingResults: New page: Lighting Build
+[2022.09.04-13.37.01:592][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.04-13.37.01:596][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.04-13.37.01:643][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.04-13.37.01:653][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.04-13.37.01:654][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.04-13.37.01:655][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.04-13.37.01:655][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.04-13.37.01:995][  0]LogWorldPartition: Display: WorldPartition initialize took 340 ms
+[2022.09.04-13.37.02:225][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.04-13.37.02:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.04-13.37.02:234][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.04-13.37.02:247][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.114ms to complete.
+[2022.09.04-13.37.02:247][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.672
+[2022.09.04-13.37.02:261][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.735
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: ================================================
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.04-13.37.02:261][  0]LogShaderCompilers: Display: ================================================
+[2022.09.04-13.37.02:392][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.04-13.37.02:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.04-13.37.02:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.04-13.37.02:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.04-13.37.02:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.04-13.37.02:569][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:569][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:578][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:578][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:585][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:585][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:592][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:592][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:607][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:607][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:614][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:614][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:620][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:620][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:627][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:627][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:633][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:633][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:640][  0]LogPakFile: Display: Mounted Pak file 'E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.04-13.37.02:640][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.04-13.37.02:640][  0]LogFeaturePack: Error: Error in Feature pack E:/Ian Beavers/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.04-13.37.03:083][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.04-13.37.03:086][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.04-13.37.03:095][  0]LogSlate: Took 0.004873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.04-13.37.03:102][  0]LogSlate: Took 0.006773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.04-13.37.03:173][  0]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.04-13.37.03:920][  0]LogStall: Startup...
+[2022.09.04-13.37.03:922][  0]LogStall: Startup complete.
+[2022.09.04-13.37.03:951][  0]LogLoad: (Engine Initialization) Total time: 14.43 seconds
+[2022.09.04-13.37.03:951][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.04-13.37.04:066][  0]LogAssetRegistry: Asset discovery search completed in 10.1367 seconds
+[2022.09.04-13.37.04:070][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.04-13.37.04:072][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.04-13.37.15:271][725]LogSlate: Took 0.005873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.04-13.37.17:044][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.04-13.37.17:046][854]Cmd: MAP LOAD FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.04-13.37.17:046][854]LightingResults: New page: Lighting Build
+[2022.09.04-13.37.17:046][854]LoadErrors: New page: Loading map: BackroomsGraybox9_3_2022.umap
+[2022.09.04-13.37.17:080][854]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-13.37.17:080][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-13.37.17:082][854]MapCheck: New page: Map Check
+[2022.09.04-13.37.17:083][854]LightingResults: New page: Lighting Build
+[2022.09.04-13.37.17:092][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.04-13.37.17:108][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.04-13.37.17:141][854]LogAudio: Display: Audio Device (ID: 1) registered with world 'BackroomsGraybox9_3_2022'.
+[2022.09.04-13.37.17:141][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.04-13.37.17:142][854]LogAIModule: Creating AISystem for world BackroomsGraybox9_3_2022
+[2022.09.04-13.37.17:142][854]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.04-13.37.17:142][854]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.04-13.37.17:144][854]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.09.04-13.37.17:150][854]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.04-13.37.17:161][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.04-13.37.17:170][854]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.04-13.37.17:170][854]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.09.04-13.37.17:170][854]LogFileHelpers: Loading map 'BackroomsGraybox9_3_2022' took 0.125
+[2022.09.04-13.37.17:171][854]LogSlate: Window 'Open Level' being destroyed
+[2022.09.04-13.37.34:738][861]LogEditorViewport: Clicking Background
+[2022.09.04-13.38.52:669][ 59]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-14.38.52:364][831]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.086 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-15.38.52:646][629]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.083 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-16.38.52:666][316]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.082 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-17.38.52:596][  3]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-18.15.01:620][442]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2022.09.04-18.15.01:620][442]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4692
+[2022.09.04-18.15.01:963][442]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{196aedb6-c910-44b8-aff0-50f860950b88}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=171.91
+[2022.09.04-18.15.01:963][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.04-18.15.01:965][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.04-18.16.12:867][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.09.04-18.16.12:867][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.09.04-18.16.12:868][753]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.StaticMeshActor_0
+[2022.09.04-18.16.12:888][753]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.StaticMeshActor_0
+[2022.09.04-18.16.13:480][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.09.04-18.16.13:480][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.09.04-18.16.13:483][805]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.StaticMeshActor_UAID_4CCC6A68FF91473301_1494121511
+[2022.09.04-18.16.13:483][805]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.StaticMeshActor_UAID_4CCC6A68FF91473301_1494121511
+[2022.09.04-18.16.16:736][128]Cmd: DELETE
+[2022.09.04-18.16.16:736][128]Cmd: ACTOR DELETE
+[2022.09.04-18.16.16:741][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.04-18.16.16:754][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.04-18.16.16:755][128]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.09.04-18.16.18:440][297]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.17.41:256][450]Cmd: TRANSACTION UNDO
+[2022.09.04-18.17.41:256][450]LogEditorTransaction: Undo Move Elements
+[2022.09.04-18.19.20:727][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.04-18.19.20:736][908]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005904 seconds
+[2022.09.04-18.19.20:745][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto1
+[2022.09.04-18.19.20:745][908]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto17ABC9879438FB65ACAA8A2A1FD1F8E82.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto1.umap'
+[2022.09.04-18.19.20:753][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.041
+[2022.09.04-18.19.20:753][908]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.09.04-18.20.24:977][814]Cmd: TRANSACTION UNDO
+[2022.09.04-18.20.24:977][814]LogEditorTransaction: Undo Move Elements
+[2022.09.04-18.20.39:165][282]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-18.22.24:271][580]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.24.59:124][785]Cmd: TRANSACTION UNDO
+[2022.09.04-18.24.59:124][785]LogEditorTransaction: Undo Move Elements
+[2022.09.04-18.25.55:859][295]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.28.15:353][623]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.29.37:939][175]Cmd: EDIT COPY
+[2022.09.04-18.29.38:304][217]Cmd: EDIT PASTE
+[2022.09.04-18.29.41:430][548]Cmd: DELETE
+[2022.09.04-18.29.41:430][548]Cmd: ACTOR DELETE
+[2022.09.04-18.29.41:436][548]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-18.29.41:446][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.04-18.29.41:466][548]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.09.04-18.30.45:053][810]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.32.54:616][497]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.35.38:095][601]Cmd: EDIT COPY
+[2022.09.04-18.35.39:241][737]Cmd: EDIT PASTE
+[2022.09.04-18.35.42:965][142]Cmd: DELETE
+[2022.09.04-18.35.42:965][142]Cmd: ACTOR DELETE
+[2022.09.04-18.35.42:976][142]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-18.35.42:990][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.04-18.35.43:007][142]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.09.04-18.37.11:351][ 31]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.37.28:308][  2]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.04-18.37.32:539][487]Cmd: DELETE
+[2022.09.04-18.37.32:539][487]Cmd: ACTOR DELETE
+[2022.09.04-18.37.32:553][487]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-18.37.32:567][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.04-18.37.32:581][487]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.09.04-18.37.36:990][974]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.38.52:542][611]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.269 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-18.38.53:259][692]Cmd: TRANSACTION UNDO
+[2022.09.04-18.38.53:259][692]LogEditorTransaction: Undo Edit Y
+[2022.09.04-18.41.20:428][522]LogEditorViewport: Clicking Background
+[2022.09.04-18.41.28:630][454]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+/Game/__ExternalActors__/BackroomsGraybox9_3_2022/1/IQ/BVX1VVRZ5SZ41AS9LR75E5
+[2022.09.04-18.41.28:661][454]LogWorldPartition: Warning: Actor /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.StaticMeshActor_UAID_4CCC6A68FF91473301_1494121511 is unreachable without properly detaching object /Game/__ExternalActors__/BackroomsGraybox9_3_2022/1/IQ/BVX1VVRZ5SZ41AS9LR75E5.PackageMetaData in its package
+[2022.09.04-18.41.28:676][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.04-18.41.28:685][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.04-18.41.28:693][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.04-18.41.28:696][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+[2022.09.04-18.41.28:696][454]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/F66DN0EA3AWOFI10Y993WYB44B426249E6E0DE2973FE85D79F0CEC.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY.uasset'
+[2022.09.04-18.41.28:697][454]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+[2022.09.04-18.41.28:697][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-18.41.28:706][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.04-18.41.28:716][454]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-18.41.28:717][454]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022B7FEA2D1404C9D152F444383544726EC.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-18.41.28:739][454]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.04-18.41.28:739][454]LogContentValidation: Display: Validating PlayerStart /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.PlayerStart_UAID_4CCC6A68FF91073301_1894314250
+[2022.09.04-18.41.28:739][454]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-18.41.28:749][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.04-18.42.19:930][539]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.44.41:269][161]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.45.47:957][180]Cmd: EDIT COPY
+[2022.09.04-18.45.51:698][618]Cmd: EDIT PASTE
+[2022.09.04-18.48.22:603][188]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.51.43:112][368]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.53.16:736][ 96]Cmd: EDIT COPY
+[2022.09.04-18.53.19:479][423]Cmd: EDIT PASTE
+[2022.09.04-18.54.09:948][115]LogEditorViewport: Clicking Background
+[2022.09.04-18.55.36:377][706]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-18.56.48:557][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.04-18.56.48:612][ 85]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto2
+[2022.09.04-18.56.48:613][ 85]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto2688FA51D4AAB0932326F29BA0430BB2E.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto2.umap'
+[2022.09.04-18.56.48:624][ 85]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.090
+[2022.09.04-18.56.48:624][ 85]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2022.09.04-18.57.39:846][139]LogEditorViewport: Clicking Background
+[2022.09.04-18.58.15:693][404]Cmd: EDIT COPY
+[2022.09.04-18.58.16:091][441]Cmd: EDIT PASTE
+[2022.09.04-19.02.19:189][315]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.04.20:412][204]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.05.25:752][441]Cmd: TRANSACTION UNDO
+[2022.09.04-19.05.25:752][441]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.04-19.05.26:319][449]Cmd: TRANSACTION UNDO
+[2022.09.04-19.05.26:319][449]LogEditorTransaction: Undo Select Surfaces
+[2022.09.04-19.06.12:266][845]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.06.52:507][605]LogEditorViewport: Clicking Background
+[2022.09.04-19.07.18:018][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.04-19.07.18:066][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto3
+[2022.09.04-19.07.18:066][820]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto3C962760D4F301D81BAFD018D91A1F2E7.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto3.umap'
+[2022.09.04-19.07.18:077][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.094
+[2022.09.04-19.07.18:077][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.09.04-19.07.19:934][826]LogEditorViewport: Clicking Background
+[2022.09.04-19.07.48:970][861]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.08.17:843][ 94]Cmd: EDIT COPY
+[2022.09.04-19.08.18:194][130]Cmd: EDIT PASTE
+[2022.09.04-19.08.35:964][159]Cmd: EDIT COPY
+[2022.09.04-19.08.36:689][240]Cmd: EDIT PASTE
+[2022.09.04-19.09.16:652][638]Cmd: EDIT COPY
+[2022.09.04-19.09.16:999][671]Cmd: EDIT PASTE
+[2022.09.04-19.11.17:325][773]Cmd: EDIT COPY
+[2022.09.04-19.11.17:780][826]Cmd: EDIT PASTE
+[2022.09.04-19.12.01:411][857]Cmd: TRANSACTION UNDO
+[2022.09.04-19.12.01:411][857]LogEditorTransaction: Undo Move Elements
+[2022.09.04-19.12.45:086][910]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.14.05:949][  8]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.15.06:942][995]Cmd: EDIT COPY
+[2022.09.04-19.15.07:388][ 31]Cmd: EDIT PASTE
+[2022.09.04-19.17.27:036][158]Cmd: EDIT COPY
+[2022.09.04-19.17.27:854][237]Cmd: EDIT PASTE
+[2022.09.04-19.18.22:522][486]Cmd: EDIT COPY
+[2022.09.04-19.18.22:906][522]Cmd: EDIT PASTE
+[2022.09.04-19.18.36:702][978]Cmd: EDIT COPY
+[2022.09.04-19.18.38:166][148]Cmd: EDIT PASTE
+[2022.09.04-19.18.42:864][618]Cmd: EDIT COPY
+[2022.09.04-19.18.43:181][656]Cmd: EDIT PASTE
+[2022.09.04-19.18.49:420][352]Cmd: EDIT COPY
+[2022.09.04-19.18.49:755][381]Cmd: EDIT PASTE
+[2022.09.04-19.20.10:108][367]Cmd: EDIT COPY
+[2022.09.04-19.20.10:550][408]Cmd: EDIT PASTE
+[2022.09.04-19.20.19:568][440]Cmd: DELETE
+[2022.09.04-19.20.19:568][440]Cmd: ACTOR DELETE
+[2022.09.04-19.20.19:616][440]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-19.20.19:696][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.04-19.20.19:764][440]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2022.09.04-19.21.18:196][256]Cmd: EDIT COPY
+[2022.09.04-19.21.18:537][292]Cmd: EDIT PASTE
+[2022.09.04-19.21.36:569][319]Cmd: EDIT COPY
+[2022.09.04-19.21.36:831][343]Cmd: EDIT PASTE
+[2022.09.04-19.21.41:288][814]Cmd: EDIT COPY
+[2022.09.04-19.21.41:513][834]Cmd: EDIT PASTE
+[2022.09.04-19.21.43:760][ 55]Cmd: EDIT COPY
+[2022.09.04-19.21.43:977][ 79]Cmd: EDIT PASTE
+[2022.09.04-19.21.47:509][457]Cmd: EDIT COPY
+[2022.09.04-19.21.47:721][481]Cmd: EDIT PASTE
+[2022.09.04-19.22.20:191][149]Cmd: EDIT COPY
+[2022.09.04-19.22.20:435][170]Cmd: EDIT PASTE
+[2022.09.04-19.23.43:329][654]Cmd: EDIT COPY
+[2022.09.04-19.23.43:625][684]Cmd: EDIT PASTE
+[2022.09.04-19.24.35:073][569]Cmd: EDIT COPY
+[2022.09.04-19.24.35:337][597]Cmd: EDIT PASTE
+[2022.09.04-19.25.06:633][199]Cmd: EDIT COPY
+[2022.09.04-19.25.06:918][220]Cmd: EDIT PASTE
+[2022.09.04-19.25.45:823][713]LogEditorViewport: Clicking Background
+[2022.09.04-19.25.55:060][775]LogFileHelpers: No new changes to save!
+[2022.09.04-19.25.55:061][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-19.25.55:105][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.04-19.25.55:158][775]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-19.25.55:159][775]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_20229C2278AE4C39634870DA9BBAA7B86716.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-19.25.55:201][775]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.04-19.25.55:201][775]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-19.27.13:031][463]LogEditorViewport: Clicking Background
+[2022.09.04-19.27.14:207][574]Cmd: EDIT COPY
+[2022.09.04-19.27.14:580][617]Cmd: EDIT PASTE
+[2022.09.04-19.31.02:964][722]Cmd: EDIT COPY
+[2022.09.04-19.31.03:227][748]Cmd: EDIT PASTE
+[2022.09.04-19.32.45:854][429]Cmd: EDIT COPY
+[2022.09.04-19.32.46:502][483]Cmd: EDIT PASTE
+[2022.09.04-19.33.23:495][667]Cmd: EDIT COPY
+[2022.09.04-19.33.23:748][691]Cmd: EDIT PASTE
+[2022.09.04-19.33.36:663][128]Cmd: EDIT COPY
+[2022.09.04-19.33.36:972][159]Cmd: EDIT PASTE
+[2022.09.04-19.34.47:333][109]LogEditorViewport: Clicking Background
+[2022.09.04-19.35.22:598][286]Cmd: EDIT COPY
+[2022.09.04-19.35.22:872][312]Cmd: EDIT PASTE
+[2022.09.04-19.35.47:016][934]Cmd: EDIT COPY
+[2022.09.04-19.35.47:264][958]Cmd: EDIT PASTE
+[2022.09.04-19.36.04:283][780]Cmd: EDIT COPY
+[2022.09.04-19.36.04:505][798]Cmd: EDIT PASTE
+[2022.09.04-19.36.59:901][ 39]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.38.53:277][450]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.960 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-19.39.13:893][600]LogEditorViewport: Clicking Background
+[2022.09.04-19.39.29:721][339]Cmd: EDIT COPY
+[2022.09.04-19.39.29:994][362]Cmd: EDIT PASTE
+[2022.09.04-19.41.27:646][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.09.04-19.41.27:707][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto4
+[2022.09.04-19.41.27:708][ 34]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto4B35C42744678C9571325FC9F2B651BA7.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto4.umap'
+[2022.09.04-19.41.27:716][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.128
+[2022.09.04-19.41.27:716][ 34]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2022.09.04-19.42.03:987][196]Cmd: EDIT COPY
+[2022.09.04-19.42.04:296][223]Cmd: EDIT PASTE
+[2022.09.04-19.43.28:337][741]Cmd: TRANSACTION UNDO
+[2022.09.04-19.43.28:337][741]LogEditorTransaction: Undo Move Elements
+[2022.09.04-19.43.28:554][741]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2022.09.04-19.43.28:554][741]LogGeometryMode: Warning: Unable to resolve Brush_58 Brush in new BSP, see above
+[2022.09.04-19.43.28:554][741]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-19.43.39:321][865]Cmd: TRANSACTION UNDO
+[2022.09.04-19.43.39:321][865]LogEditorTransaction: Undo Move Elements
+[2022.09.04-19.43.59:597][229]LogEditorViewport: Clicking Background
+[2022.09.04-19.44.16:434][163]Cmd: EDIT COPY
+[2022.09.04-19.44.16:738][185]Cmd: EDIT PASTE
+[2022.09.04-19.45.21:167][180]Cmd: TRANSACTION UNDO
+[2022.09.04-19.45.21:167][180]LogEditorTransaction: Undo Edit X
+[2022.09.04-19.46.55:410][966]Cmd: EDIT COPY
+[2022.09.04-19.46.55:701][  1]Cmd: EDIT PASTE
+[2022.09.04-19.47.04:531][928]Cmd: TRANSACTION UNDO
+[2022.09.04-19.47.04:531][928]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.04-19.47.12:051][707]Cmd: DELETE
+[2022.09.04-19.47.12:051][707]Cmd: ACTOR DELETE
+[2022.09.04-19.47.12:076][707]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-19.47.12:112][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.04-19.47.12:230][707]LogEditorActor: Deleted 1 Actors (0.179 secs)
+[2022.09.04-19.47.44:611][456]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.47.46:464][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.47.48:073][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.47.51:580][266]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.47.53:378][460]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.47.58:460][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.00:311][251]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.06:942][ 44]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.09:429][313]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.12:269][651]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.16:173][ 74]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.04-19.48.35:249][282]Cmd: EDIT COPY
+[2022.09.04-19.48.35:536][305]Cmd: EDIT PASTE
+[2022.09.04-19.48.52:604][202]Cmd: EDIT COPY
+[2022.09.04-19.48.52:900][234]Cmd: EDIT PASTE
+[2022.09.04-19.49.04:425][474]Cmd: DELETE
+[2022.09.04-19.49.04:425][474]Cmd: ACTOR DELETE
+[2022.09.04-19.49.04:443][474]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-19.49.04:463][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.04-19.49.04:595][474]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2022.09.04-19.49.24:996][752]Cmd: EDIT COPY
+[2022.09.04-19.49.25:823][833]Cmd: EDIT PASTE
+[2022.09.04-19.50.32:710][345]Cmd: EDIT COPY
+[2022.09.04-19.50.32:940][367]Cmd: EDIT PASTE
+[2022.09.04-19.51.11:497][666]Cmd: EDIT COPY
+[2022.09.04-19.51.11:936][717]Cmd: EDIT PASTE
+[2022.09.04-19.52.12:024][238]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-19.54.03:303][996]Cmd: EDIT COPY
+[2022.09.04-19.54.03:690][ 41]Cmd: EDIT PASTE
+[2022.09.04-19.56.05:667][816]Cmd: EDIT COPY
+[2022.09.04-19.56.05:992][853]Cmd: EDIT PASTE
+[2022.09.04-19.56.57:735][553]LogGeometryMode: Warning: Unable to find Brush_67 Brush(s) in new BSP
+[2022.09.04-19.56.57:735][553]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-19.57.08:453][722]LogEditorViewport: Clicking Background
+[2022.09.04-19.57.13:861][299]LogEditorViewport: Clicking Background
+[2022.09.04-19.57.37:000][883]LogEditorViewport: Clicking Background
+[2022.09.04-19.57.42:911][548]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+[2022.09.04-19.57.42:913][548]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+[2022.09.04-19.57.42:913][548]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/F66DN0EA3AWOFI10Y993WY89992ECA4DCE6B3FCEE0089122CFD547.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY.uasset'
+[2022.09.04-19.57.42:931][548]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/BackroomsGraybox9_3_2022/4/N5/F66DN0EA3AWOFI10Y993WY
+[2022.09.04-19.57.42:934][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-19.57.42:992][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.04-19.57.43:045][548]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-19.57.43:045][548]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_202260BA1B084C0DCA4E00FB16AEF0EE205F.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-19.57.43:105][548]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.04-19.57.43:105][548]LogContentValidation: Display: Validating PlayerStart /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022:PersistentLevel.PlayerStart_UAID_4CCC6A68FF91073301_1894314250
+[2022.09.04-19.57.43:105][548]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-19.57.52:133][582]Cmd: EDIT COPY
+[2022.09.04-19.57.52:521][627]Cmd: EDIT PASTE
+[2022.09.04-19.58.39:402][796]LogEditorViewport: Clicking Background
+[2022.09.04-19.58.54:026][525]Cmd: EDIT COPY
+[2022.09.04-19.58.57:770][910]Cmd: EDIT COPY
+[2022.09.04-19.58.58:319][974]Cmd: EDIT PASTE
+[2022.09.04-19.59.33:585][769]Cmd: EDIT COPY
+[2022.09.04-19.59.33:860][793]Cmd: EDIT PASTE
+[2022.09.04-20.00.14:123][224]Cmd: EDIT COPY
+[2022.09.04-20.00.15:869][423]Cmd: EDIT PASTE
+[2022.09.04-20.00.46:540][834]Cmd: EDIT COPY
+[2022.09.04-20.00.46:932][869]Cmd: EDIT PASTE
+[2022.09.04-20.02.07:672][922]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-20.07.43:165][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.09.04-20.07.43:239][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto5
+[2022.09.04-20.07.43:239][492]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto556CBD6804370D18B644C10B9006E4F91.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto5.umap'
+[2022.09.04-20.07.43:250][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.121
+[2022.09.04-20.07.43:250][492]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2022.09.04-20.10.37:880][218]Cmd: EDIT COPY
+[2022.09.04-20.10.38:453][278]Cmd: EDIT PASTE
+[2022.09.04-20.11.23:229][168]Cmd: EDIT COPY
+[2022.09.04-20.11.23:536][203]Cmd: EDIT PASTE
+[2022.09.04-20.12.20:372][360]Cmd: TRANSACTION UNDO
+[2022.09.04-20.12.20:372][360]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.12.20:701][360]LogGeometryMode: Warning: Unable to find 11 Poly(s) in new BSP
+[2022.09.04-20.12.20:701][360]LogGeometryMode: Warning: Unable to resolve Brush_74 Brush in new BSP, see above
+[2022.09.04-20.12.20:701][360]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.12.56:080][190]Cmd: TRANSACTION UNDO
+[2022.09.04-20.12.56:080][190]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.12.56:410][190]LogGeometryMode: Warning: Unable to find 16 Poly(s) in new BSP
+[2022.09.04-20.12.56:410][190]LogGeometryMode: Warning: Unable to resolve Brush_74 Brush in new BSP, see above
+[2022.09.04-20.12.56:410][190]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.13.12:407][947]Cmd: TRANSACTION UNDO
+[2022.09.04-20.13.12:407][947]LogEditorTransaction: Undo Rotate Elements
+[2022.09.04-20.13.18:482][554]Cmd: TRANSACTION UNDO
+[2022.09.04-20.13.18:482][554]LogEditorTransaction: Undo Rotate Elements
+[2022.09.04-20.13.43:164][308]Cmd: TRANSACTION UNDO
+[2022.09.04-20.13.43:165][308]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.13.43:487][308]LogGeometryMode: Warning: Unable to find 16 Poly(s) in new BSP
+[2022.09.04-20.13.43:487][308]LogGeometryMode: Warning: Unable to resolve Brush_74 Brush in new BSP, see above
+[2022.09.04-20.13.43:487][308]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.14.25:356][805]Cmd: EDIT COPY
+[2022.09.04-20.14.25:790][855]Cmd: EDIT PASTE
+[2022.09.04-20.15.33:453][324]Cmd: TRANSACTION UNDO
+[2022.09.04-20.15.33:454][324]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.04-20.15.34:578][397]Cmd: TRANSACTION UNDO
+[2022.09.04-20.15.34:578][397]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.04-20.17.01:876][472]LogGeometryMode: Warning: Unable to find Brush_76 Brush(s) in new BSP
+[2022.09.04-20.17.01:876][472]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.17.57:560][897]Cmd: EDIT COPY
+[2022.09.04-20.17.57:836][921]Cmd: EDIT PASTE
+[2022.09.04-20.18.45:635][ 26]Cmd: TRANSACTION UNDO
+[2022.09.04-20.18.45:636][ 26]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.18.47:877][206]LogEditorViewport: Clicking Background
+[2022.09.04-20.19.18:968][371]LogGeomTools: Triangulation of poly failed.
+[2022.09.04-20.19.32:536][794]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.32:536][794]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.32:918][794]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.32:918][794]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.32:918][794]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.35:566][ 77]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.35:566][ 77]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.35:937][ 77]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.35:937][ 77]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.35:937][ 77]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.36:459][114]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.36:459][114]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.36:823][114]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.36:823][114]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.36:823][114]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.37:235][157]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.37:235][157]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.38:058][203]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.38:059][203]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.04-20.19.38:830][286]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.38:830][286]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.39:198][286]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.39:198][286]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.39:198][286]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.43:181][741]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.43:181][741]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.43:543][741]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.43:543][741]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.43:543][741]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.50:571][549]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.50:571][549]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.04-20.19.51:041][556]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.51:041][556]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.51:420][556]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.51:420][556]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.51:420][556]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.51:547][558]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.51:547][558]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.04-20.19.51:998][601]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.51:998][601]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.52:364][601]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.52:364][601]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.52:364][601]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.52:756][643]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.52:757][643]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.53:571][690]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.53:571][690]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.04-20.19.54:085][742]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.54:085][742]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.54:444][742]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.54:444][742]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.54:444][742]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.55:110][814]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.55:110][814]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.55:988][868]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.55:988][868]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.04-20.19.56:597][932]Cmd: TRANSACTION UNDO
+[2022.09.04-20.19.56:597][932]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.19.56:969][932]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.04-20.19.56:969][932]LogGeometryMode: Warning: Unable to resolve Brush_76 Brush in new BSP, see above
+[2022.09.04-20.19.56:969][932]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.04-20.19.58:705][131]LogEditorViewport: Clicking Background
+[2022.09.04-20.20.32:905][137]LogEditorViewport: Clicking Background
+[2022.09.04-20.21.31:980][423]Cmd: DELETE
+[2022.09.04-20.21.31:980][423]Cmd: ACTOR DELETE
+[2022.09.04-20.21.32:021][423]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-20.21.32:084][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.04-20.21.32:292][423]LogEditorActor: Deleted 1 Actors (0.312 secs)
+[2022.09.04-20.21.35:597][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-20.21.44:677][764]LogEditorViewport: Clicking Background
+[2022.09.04-20.22.30:682][741]Cmd: TRANSACTION UNDO
+[2022.09.04-20.22.30:682][741]LogEditorTransaction: Undo Edit Cap Z
+[2022.09.04-20.24.35:551][252]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-20.25.42:471][270]LogEditorViewport: Clicking Background
+[2022.09.04-20.25.58:454][147]LogFileHelpers: No new changes to save!
+[2022.09.04-20.25.58:454][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-20.25.58:496][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.04-20.25.58:593][147]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-20.25.58:593][147]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022F85A32944FEC6D936DB7A6AC8C26554E.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-20.25.58:665][147]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.04-20.25.58:665][147]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-20.26.13:531][881]Cmd: EDIT COPY
+[2022.09.04-20.26.13:717][893]Cmd: EDIT PASTE
+[2022.09.04-20.27.25:940][676]Cmd: EDIT COPY
+[2022.09.04-20.27.28:054][916]Cmd: EDIT PASTE
+[2022.09.04-20.28.02:785][468]LogEditorViewport: Clicking Background
+[2022.09.04-20.28.07:524][987]LogFileHelpers: No new changes to save!
+[2022.09.04-20.28.07:525][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-20.28.07:550][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.04-20.28.07:648][987]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-20.28.07:648][987]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022D290A9D44B756B5F60E58889E769A551.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-20.28.07:722][987]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.04-20.28.07:722][987]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-20.28.13:487][631]Cmd: DELETE
+[2022.09.04-20.28.13:487][631]Cmd: ACTOR DELETE
+[2022.09.04-20.28.13:504][631]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-20.28.13:518][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.04-20.28.13:821][631]LogEditorActor: Deleted 1 Actors (0.334 secs)
+[2022.09.04-20.28.18:774][185]LogFileHelpers: No new changes to save!
+[2022.09.04-20.28.18:774][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-20.28.18:784][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.04-20.28.18:875][185]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-20.28.18:875][185]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022AEC4BADC4F7EFBA6861D7E8846AB0C98.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-20.28.18:902][185]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.04-20.28.18:902][185]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-20.38.55:036][ 65]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.765 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-20.40.46:744][552]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (HyperX 7.1 Audio), InstanceID=1
+[2022.09.04-20.40.46:744][552]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4692
+[2022.09.04-20.40.47:075][552]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e14cd231-8ef9-4c56-b500-e9b6108dfa0a}, Name=Headset Earphone (HyperX 7.1 Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.43
+[2022.09.04-20.40.47:075][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.04-20.40.47:079][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.04-20.41.24:924][143]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.04-20.42.48:827][900]Cmd: EDIT COPY
+[2022.09.04-20.42.49:181][938]Cmd: EDIT PASTE
+[2022.09.04-20.44.04:956][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.04-20.44.05:046][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackroomsGraybox9_3_2022_Auto6
+[2022.09.04-20.44.05:046][398]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022_Auto686AA7B6C4932CE27597CB99DEBE7D7A7.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Saved/Autosaves/Game/BackroomsGraybox9_3_2022_Auto6.umap'
+[2022.09.04-20.44.05:056][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BackroomsGraybox9_3_2022' took 0.119
+[2022.09.04-20.44.05:056][398]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.119
+[2022.09.04-20.44.05:091][399]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2022.09.04-20.44.05:212][410]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2022.09.04-20.44.30:622][273]Cmd: EDIT COPY
+[2022.09.04-20.44.31:092][319]Cmd: EDIT PASTE
+[2022.09.04-20.45.17:186][248]Cmd: EDIT CUT
+[2022.09.04-20.45.17:208][248]LogEditorActor: Deleted Actor: Brush
+[2022.09.04-20.45.17:227][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.09.04-20.45.17:512][248]LogEditorActor: Deleted 1 Actors (0.324 secs)
+[2022.09.04-20.45.18:720][387]Cmd: TRANSACTION UNDO
+[2022.09.04-20.45.18:720][387]LogEditorTransaction: Undo Cut
+[2022.09.04-20.45.19:649][422]Cmd: TRANSACTION UNDO
+[2022.09.04-20.45.19:649][422]LogEditorTransaction: Undo Move Elements
+[2022.09.04-20.45.47:782][463]Cmd: EDIT COPY
+[2022.09.04-20.45.48:070][496]Cmd: EDIT PASTE
+[2022.09.04-20.46.49:966][174]Cmd: EDIT COPY
+[2022.09.04-20.46.50:369][220]Cmd: EDIT PASTE
+[2022.09.04-20.48.17:638][949]LogEditorViewport: Clicking Background
+[2022.09.04-20.50.39:392][119]LogEditorViewport: Clicking Background
+[2022.09.04-20.50.43:391][557]LogFileHelpers: No new changes to save!
+[2022.09.04-20.50.43:392][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-20.50.43:423][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.04-20.50.43:517][557]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.04-20.50.43:518][557]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_20224BCE178741199CF7EEC93C8C40F115EB.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.04-20.50.43:590][557]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.04-20.50.43:590][557]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.04-21.38.55:183][696]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.835 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-21.56.51:379][889]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2022.09.04-21.56.51:380][889]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4692
+[2022.09.04-21.56.51:724][889]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{196aedb6-c910-44b8-aff0-50f860950b88}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=111.32
+[2022.09.04-21.56.51:724][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.04-21.56.51:726][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.04-22.38.55:538][381]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.967 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.04-22.38.57:548][387]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (HyperX 7.1 Audio), InstanceID=1
+[2022.09.04-22.38.57:548][387]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4692
+[2022.09.04-22.38.57:883][387]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e14cd231-8ef9-4c56-b500-e9b6108dfa0a}, Name=Headset Earphone (HyperX 7.1 Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.37
+[2022.09.04-22.38.57:883][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.04-22.38.57:885][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.04-23.38.52:837][721]LogEditorViewport: Clicking Background
+[2022.09.04-23.38.55:545][ 44]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.271 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-00.38.55:290][979]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.842 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-01.38.55:193][777]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.919 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-02.38.55:504][ 46]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.954 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-03.38.55:385][766]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.871 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-04.38.55:400][488]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.890 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-13.56.39:835][914]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [31466976ms] waiting for h/w. InstanceID=1
+[2022.09.05-13.56.41:518][915]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4692
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DEA196A-4789-DA83-77CD-44A3E10647D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=81c6863e4bfc636bc3492789340b9def%7Cd229a6b11bf74fb2b2d4cccb8c822f8d%7C4bbb33f8-d2ac-4c8f-8154-f13cdf6e94cf&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6887e0e0000 [can pipeline])
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.205.55.215) port 443 (#0))
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.05-13.56.41:714][916]LogHttp: Warning: 00000688C2EDB900: libcurl info message cache 7 (Closing connection 0)
+[2022.09.05-13.56.41:715][916]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DEA196A-4789-DA83-77CD-44A3E10647D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=81c6863e4bfc636bc3492789340b9def%7Cd229a6b11bf74fb2b2d4cccb8c822f8d%7C4bbb33f8-d2ac-4c8f-8154-f13cdf6e94cf&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-13.56.42:022][916]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e14cd231-8ef9-4c56-b500-e9b6108dfa0a}, Name=Headset Earphone (HyperX 7.1 Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=479.91
+[2022.09.05-13.56.42:022][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.05-13.56.42:035][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.05-14.23.14:831][683]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.249 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-15.23.14:445][422]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.796 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-16.23.14:177][103]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.843 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DEA196A-4789-DA83-77CD-44A3E10647D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=81c6863e4bfc636bc3492789340b9def%7Cd229a6b11bf74fb2b2d4cccb8c822f8d%7C4bbb33f8-d2ac-4c8f-8154-f13cdf6e94cf&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: request failed, libcurl error: 0 (No error)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6887e0e0180 [can pipeline])
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.225.169.249) port 443 (#2))
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 7 (Closing connection 2)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: 00000688C2ED3C00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.09.05-17.19.06:478][ 55]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DEA196A-4789-DA83-77CD-44A3E10647D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=81c6863e4bfc636bc3492789340b9def%7Cd229a6b11bf74fb2b2d4cccb8c822f8d%7C4bbb33f8-d2ac-4c8f-8154-f13cdf6e94cf&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-17.23.14:425][791]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.027 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-18.23.14:344][477]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.914 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-19.23.14:326][800]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.781 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-19.27.44:615][669]LogEditorViewport: Clicking Background
+[2022.09.05-19.27.46:102][810]Cmd: EDIT COPY
+[2022.09.05-19.27.46:512][857]Cmd: EDIT PASTE
+[2022.09.05-19.28.15:442][681]Cmd: TRANSACTION UNDO
+[2022.09.05-19.28.15:442][681]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.28.51:278][598]Cmd: EDIT COPY
+[2022.09.05-19.28.51:562][632]Cmd: EDIT PASTE
+[2022.09.05-19.29.06:316][106]Cmd: EDIT COPY
+[2022.09.05-19.29.06:775][158]Cmd: EDIT PASTE
+[2022.09.05-19.29.12:951][722]Cmd: DELETE
+[2022.09.05-19.29.12:951][722]Cmd: ACTOR DELETE
+[2022.09.05-19.29.12:983][722]LogEditorActor: Deleted Actor: Brush
+[2022.09.05-19.29.13:043][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.09.05-19.29.13:388][722]LogEditorActor: Deleted 1 Actors (0.437 secs)
+[2022.09.05-19.29.16:225][ 35]Cmd: EDCALLBACK SURFPROPS
+[2022.09.05-19.30.32:289][364]Cmd: TRANSACTION UNDO
+[2022.09.05-19.30.32:289][364]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.30.32:798][364]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.30.32:798][364]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.30.32:798][364]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.30.32:798][364]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.02:702][383]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.02:702][383]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.03:210][383]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.03:210][383]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.03:210][383]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.03:582][412]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.03:582][412]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.04:072][412]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.09.05-19.32.04:072][412]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.04:072][412]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.16:850][924]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.16:850][924]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.17:344][924]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.17:344][924]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.17:344][924]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.17:642][945]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.17:642][945]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.18:134][945]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.09.05-19.32.18:134][945]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.18:134][945]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.18:457][979]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.18:457][979]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.32.19:125][ 49]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.19:125][ 49]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.32.20:064][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.20:065][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.20:544][154]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.32.20:544][154]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.09.05-19.32.20:544][154]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.20:544][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.20:561][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.20:561][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.21:093][154]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.32.21:093][154]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.21:093][154]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.21:093][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.21:108][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.21:108][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.21:610][154]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.32.21:610][154]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.21:610][154]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.21:610][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.21:625][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.21:625][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.22:151][154]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.32.22:152][154]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.22:152][154]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.22:152][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.22:171][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.22:171][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.22:693][154]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.09.05-19.32.22:693][154]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2022.09.05-19.32.22:693][154]LogGeometryMode: Warning: Unable to resolve Brush_89 Brush in new BSP, see above
+[2022.09.05-19.32.22:693][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.32.22:720][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.22:720][154]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.32.22:804][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.22:804][154]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.32.22:885][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.22:885][154]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.05-19.32.22:953][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.22:953][154]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.32.23:004][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.23:004][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.23:544][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.23:544][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.24:076][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.24:076][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.24:653][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.24:653][154]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.32.25:198][154]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.25:198][154]LogEditorTransaction: Undo Edit Y
+[2022.09.05-19.32.35:347][223]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.35:347][223]LogEditorTransaction: Undo Select Surfaces
+[2022.09.05-19.32.38:040][475]Cmd: TRANSACTION UNDO
+[2022.09.05-19.32.38:040][475]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.05-19.32.41:711][849]Cmd: TRANSACTION REDO
+[2022.09.05-19.32.41:712][849]LogEditorTransaction: Redo Select Brush Surface
+[2022.09.05-19.32.47:038][395]Cmd: TRANSACTION REDO
+[2022.09.05-19.32.47:038][395]LogEditorTransaction: Redo Select Surfaces
+[2022.09.05-19.34.56:077][744]LogGeometryMode: Warning: Unable to find Brush_90 Brush(s) in new BSP
+[2022.09.05-19.34.56:077][744]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.35.03:608][551]Cmd: EDIT COPY
+[2022.09.05-19.35.03:924][585]Cmd: EDIT PASTE
+[2022.09.05-19.35.50:120][428]Cmd: TRANSACTION UNDO
+[2022.09.05-19.35.50:120][428]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.35.51:762][531]Cmd: TRANSACTION UNDO
+[2022.09.05-19.35.51:762][531]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.35.52:269][531]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.09.05-19.35.52:269][531]LogGeometryMode: Warning: Unable to resolve Brush_91 Brush in new BSP, see above
+[2022.09.05-19.35.52:269][531]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.37.22:256][706]Cmd: EDIT COPY
+[2022.09.05-19.37.22:998][795]Cmd: EDIT PASTE
+[2022.09.05-19.37.57:601][397]Cmd: EDIT COPY
+[2022.09.05-19.37.57:908][432]Cmd: EDIT PASTE
+[2022.09.05-19.38.43:005][153]Cmd: EDIT COPY
+[2022.09.05-19.38.43:259][173]Cmd: EDIT PASTE
+[2022.09.05-19.39.17:123][739]Cmd: EDIT COPY
+[2022.09.05-19.39.17:391][760]Cmd: EDIT PASTE
+[2022.09.05-19.39.31:988][231]Cmd: EDIT COPY
+[2022.09.05-19.39.32:243][248]Cmd: EDIT PASTE
+[2022.09.05-19.39.44:855][584]Cmd: EDIT COPY
+[2022.09.05-19.39.45:132][607]Cmd: EDIT PASTE
+[2022.09.05-19.39.59:763][902]Cmd: EDIT COPY
+[2022.09.05-19.40.00:011][930]Cmd: EDIT PASTE
+[2022.09.05-19.40.20:720][195]Cmd: EDIT COPY
+[2022.09.05-19.40.20:984][225]Cmd: EDIT PASTE
+[2022.09.05-19.40.27:428][807]Cmd: EDIT COPY
+[2022.09.05-19.40.27:676][835]Cmd: EDIT PASTE
+[2022.09.05-19.40.35:878][633]LogFileHelpers: No new changes to save!
+[2022.09.05-19.40.35:879][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.05-19.40.35:941][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.09.05-19.40.36:054][633]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.05-19.40.36:054][633]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_202276F69AC64574DA1A0578EBA53C9BA06C.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.05-19.40.36:086][633]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.05-19.40.36:086][633]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.05-19.40.56:149][991]Cmd: EDIT COPY
+[2022.09.05-19.40.56:416][ 23]Cmd: EDIT PASTE
+[2022.09.05-19.42.38:528][376]Cmd: DELETE
+[2022.09.05-19.42.38:528][376]Cmd: ACTOR DELETE
+[2022.09.05-19.42.38:550][376]LogEditorActor: Deleted Actor: Brush
+[2022.09.05-19.42.38:580][376]LogUObjectHash: Compacting FUObjectHashTables data took   9.57ms
+[2022.09.05-19.42.38:912][376]LogEditorActor: Deleted 1 Actors (0.383 secs)
+[2022.09.05-19.42.45:412][ 87]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-19.43.28:580][668]Cmd: DELETE
+[2022.09.05-19.43.28:580][668]Cmd: ACTOR DELETE
+[2022.09.05-19.43.28:603][668]LogEditorActor: Deleted Actor: Brush
+[2022.09.05-19.43.28:622][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.05-19.43.28:941][668]LogEditorActor: Deleted 1 Actors (0.360 secs)
+[2022.09.05-19.43.39:356][859]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-19.46.33:269][480]Cmd: EDIT COPY
+[2022.09.05-19.46.33:517][508]Cmd: EDIT PASTE
+[2022.09.05-19.47.17:472][ 93]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-19.49.35:181][380]Cmd: TRANSACTION UNDO
+[2022.09.05-19.49.35:181][380]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.50.44:693][117]Cmd: TRANSACTION UNDO
+[2022.09.05-19.50.44:693][117]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.50.45:241][117]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.09.05-19.50.45:241][117]LogGeometryMode: Warning: Unable to resolve Brush_105 Brush in new BSP, see above
+[2022.09.05-19.50.45:241][117]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.51.05:146][441]LogEditorViewport: Clicking Background
+[2022.09.05-19.51.07:847][739]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.07:847][739]LogEditorTransaction: Undo Select Brush Surface
+[2022.09.05-19.51.08:431][747]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.08:431][747]LogEditorTransaction: Undo Clicking Background
+[2022.09.05-19.51.08:834][781]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.08:834][781]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.51.09:222][819]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.09:222][819]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.51.09:592][856]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.09:592][856]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.51.10:166][856]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.09.05-19.51.10:166][856]LogGeometryMode: Warning: Unable to resolve Brush_105 Brush in new BSP, see above
+[2022.09.05-19.51.10:166][856]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.51.10:180][856]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.10:180][856]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.51.10:740][856]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.10:740][856]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.51.11:294][856]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.09.05-19.51.11:294][856]LogGeometryMode: Warning: Unable to resolve Brush_105 Brush in new BSP, see above
+[2022.09.05-19.51.11:294][856]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.51.11:309][856]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.11:309][856]LogEditorTransaction: Undo Move Elements
+[2022.09.05-19.51.11:870][856]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.09.05-19.51.11:870][856]LogGeometryMode: Warning: Unable to resolve Brush_105 Brush in new BSP, see above
+[2022.09.05-19.51.11:870][856]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.51.11:894][856]Cmd: TRANSACTION UNDO
+[2022.09.05-19.51.11:894][856]LogEditorTransaction: Undo Modifier [Edit]
+[2022.09.05-19.51.12:322][887]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush73)
+[2022.09.05-19.51.19:095][685]Cmd: DELETE
+[2022.09.05-19.51.19:096][685]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.09.05-19.51.19:096][685]LogGeometryMode: Warning: Unable to resolve Brush_105 Brush in new BSP, see above
+[2022.09.05-19.51.19:096][685]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.09.05-19.51.23:188][119]Cmd: DELETE
+[2022.09.05-19.51.23:188][119]Cmd: ACTOR DELETE
+[2022.09.05-19.51.23:222][119]LogEditorActor: Deleted Actor: Brush
+[2022.09.05-19.51.23:260][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.05-19.51.23:588][119]LogEditorActor: Deleted 1 Actors (0.400 secs)
+[2022.09.05-19.51.28:483][663]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-19.53.38:279][672]Cmd: EDIT COPY
+[2022.09.05-19.53.38:613][697]Cmd: EDIT PASTE
+[2022.09.05-19.56.47:450][649]Cmd: TRANSACTION UNDO
+[2022.09.05-19.56.47:450][649]LogEditorTransaction: Undo Rotate Elements
+[2022.09.05-19.56.51:350][ 18]Cmd: TRANSACTION UNDO
+[2022.09.05-19.56.51:350][ 18]LogEditorTransaction: Undo Rotate Elements
+[2022.09.05-19.57.27:878][189]Cmd: TRANSACTION UNDO
+[2022.09.05-19.57.27:878][189]LogEditorTransaction: Undo Rotate Elements
+[2022.09.05-19.57.30:724][416]Cmd: TRANSACTION UNDO
+[2022.09.05-19.57.30:724][416]LogEditorTransaction: Undo Rotate Elements
+[2022.09.05-19.59.17:994][477]LogEditorViewport: Clicking Background
+[2022.09.05-19.59.42:781][263]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-20.00.42:650][445]Cmd: EDIT COPY
+[2022.09.05-20.00.42:956][469]Cmd: EDIT PASTE
+[2022.09.05-20.00.55:218][732]Cmd: EDIT COPY
+[2022.09.05-20.00.55:894][811]Cmd: EDIT PASTE
+[2022.09.05-20.01.00:940][237]Cmd: TRANSACTION UNDO
+[2022.09.05-20.01.00:940][237]LogEditorTransaction: Undo Move Elements
+[2022.09.05-20.01.26:611][797]Cmd: EDIT COPY
+[2022.09.05-20.01.26:903][817]Cmd: EDIT PASTE
+[2022.09.05-20.02.10:316][604]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-20.02.46:024][ 40]Cmd: EDIT COPY
+[2022.09.05-20.02.46:313][ 74]Cmd: EDIT PASTE
+[2022.09.05-20.02.49:644][337]Cmd: DELETE
+[2022.09.05-20.02.49:644][337]Cmd: ACTOR DELETE
+[2022.09.05-20.02.49:692][337]LogEditorActor: Deleted Actor: Brush
+[2022.09.05-20.02.49:758][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.05-20.02.50:192][337]LogEditorActor: Deleted 1 Actors (0.547 secs)
+[2022.09.05-20.03.04:830][ 37]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-20.04.27:163][ 16]LogFileHelpers: No new changes to save!
+[2022.09.05-20.04.27:163][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.05-20.04.27:184][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.09.05-20.04.27:310][ 16]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.05-20.04.27:310][ 16]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_20224F2B885942693C45C997FABA47DF0E3D.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.05-20.04.27:379][ 16]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.05-20.04.27:379][ 16]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.05-20.05.50:997][565]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.05-20.07.06:075][323]Cmd: EDIT COPY
+[2022.09.05-20.07.06:418][356]Cmd: EDIT PASTE
+[2022.09.05-20.07.24:676][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.05-20.07.24:734][110]LogFileHelpers: No new changes to save!
+[2022.09.05-20.07.24:735][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.05-20.07.24:748][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.05-20.07.24:874][110]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.05-20.07.24:874][110]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022343C7A2D421B15AD422F6597DA53214D.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.05-20.07.24:887][110]LogFileHelpers: Saving map 'BackroomsGraybox9_3_2022' took 0.153
+[2022.09.05-20.07.24:900][110]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.05-20.07.24:900][110]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.05-20.07.28:606][522]LogEditorViewport: Clicking Background
+[2022.09.05-20.08.02:876][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.05-20.13.03:924][578]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.13.04:055][578]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.13.04:420][581]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.13.04:421][581]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.13.04:421][581]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.13.04:421][581]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.13.04:421][581]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.14.54:179][989]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.05-20.14.54:353][989]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.05-20.15.13:669][103]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.05-20.15.16:212][390]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.05-20.15.25:094][411]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.15.25:100][411]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.15.30:395][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.05-20.15.35:293][284]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.15.35:387][284]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.15.35:738][287]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.23.15:826][248]LogDerivedDataCache: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.412 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-20.25.10:900][854]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.05-20.25.58:229][ 63]LogSlate: Window 'Open Level' being destroyed
+[2022.09.05-20.26.52:217][281]LogEditorExporters: Warning: There is nothing to export to a fbx file.
+[2022.09.05-20.27.09:694][526]LogSlate: Window 'Open Level' being destroyed
+[2022.09.05-20.28.52:297][675]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.28.52:372][677]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.28.52:708][678]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.29.38:524][521]LogProjectBrowser: Looking for projects...
+[2022.09.05-20.29.38:524][521]LogProjectBrowser: Found Engine Installation "5.0"(E:/Ian Beavers/Epic Games/UE_5.0)
+[2022.09.05-20.29.38:524][521]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.0
+[2022.09.05-20.29.38:524][521]LogDesktopPlatform: Looking for directories to scan from : C:/Users/Ian Beavers/AppData/Local/UnrealEngine/5.0/Saved/Config/WindowsEditor
+[2022.09.05-20.29.38:524][521]LogDesktopPlatform: Searching for previously created project directories...
+[2022.09.05-20.29.38:524][521]LogDesktopPlatform: Found directory: "D:/Unreal Projects"
+[2022.09.05-20.29.38:524][521]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject",LastOpenTime=2022.09.05-20.15.55)" in recently opened files
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found project "D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" in previously created project directory
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in previously created project directory
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in previously created project directory
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in previously created project directory
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in previously created project directory
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.09.05-20.29.38:525][521]LogProjectBrowser: Found Engine Installation "4.26"(E:/Ian Beavers/Epic Games/UE_4.26)
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Enumerating Projects From Engine Ver: 4.26
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Looking for directories to scan from : C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/WindowsEditor
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/WindowsEditor not found, looking for directories in C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/Windows
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Searching for previously created project directories...
+[2022.09.05-20.29.38:525][521]LogDesktopPlatform: Found directory: "D:/Unreal Projects"
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/TestProject1/TestProject1.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/FINALPROJECTSHBEEB/FinalProject.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in recently opened files
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" in previously created project directory
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in previously created project directory
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in previously created project directory
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in previously created project directory
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in previously created project directory
+[2022.09.05-20.29.38:526][521]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.09.05-20.29.38:527][521]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2022.09.05-20.29.48:843][738]LogSlate: Window 'Open Project' being destroyed
+[2022.09.05-20.30.16:780][649]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/Packages/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.30.17:178][652]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.32.10:217][374]LogSlate: Took 0.000748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.05-20.32.44:064][799]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.05-20.32.44:074][799]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.05-20.32.44:079][799]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.05-20.32.44:092][800]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.05-20.32.48:922][377]LogContentBrowser: Attempting asset rename: NewBlueprint -> Muh_Gamemode
+[2022.09.05-20.32.48:947][377]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.05-20.32.55:351][116]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.05-20.33.17:707][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Muh_Gamemode.Muh_Gamemode
+[2022.09.05-20.33.17:708][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.33.19:279][665]LogViewport: Scene viewport resized to 738x513, mode Windowed.
+[2022.09.05-20.33.21:112][811]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2022.09.05-20.33.23:710][ 53]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.05-20.33.27:927][527]LogSlate: Window 'Muh_Gamemode' being destroyed
+[2022.09.05-20.33.27:933][527]LogSlate: Window 'Muh_Gamemode' being destroyed
+[2022.09.05-20.33.27:938][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.33.27:938][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.33.31:004][864]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.05-20.33.31:113][864]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.05-20.34.31:048][299]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.34.31:054][299]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.34.32:409][447]LogFileHelpers: No new changes to save!
+[2022.09.05-20.34.32:409][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackroomsGraybox9_3_2022" FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.05-20.34.32:476][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.09.05-20.34.32:588][447]LogSavePackage: Moving output files for package: /Game/BackroomsGraybox9_3_2022
+[2022.09.05-20.34.32:588][447]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/BackroomsGraybox9_3_2022F43AD73E45CD40309FC25A98D6D812F0.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap'
+[2022.09.05-20.34.32:608][447]AssetCheck: New page: Asset Save: BackroomsGraybox9_3_2022
+[2022.09.05-20.34.32:608][447]LogContentValidation: Display: Validating World /Game/BackroomsGraybox9_3_2022.BackroomsGraybox9_3_2022
+[2022.09.05-20.35.01:756][430]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/Packages/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.35.02:168][433]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.35.02:169][433]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.36.06:186][968]LogSlate: Window 'Open Level' being destroyed
+[2022.09.05-20.37.00:554][841]LogProjectBrowser: Looking for projects...
+[2022.09.05-20.37.00:554][841]LogProjectBrowser: Found Engine Installation "5.0"(E:/Ian Beavers/Epic Games/UE_5.0)
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.0
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Looking for directories to scan from : C:/Users/Ian Beavers/AppData/Local/UnrealEngine/5.0/Saved/Config/WindowsEditor
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Searching for previously created project directories...
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found directory: "D:/Unreal Projects"
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject",LastOpenTime=2022.09.05-20.15.55)" in recently opened files
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" in previously created project directory
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in previously created project directory
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in previously created project directory
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in previously created project directory
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in previously created project directory
+[2022.09.05-20.37.00:555][841]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.09.05-20.37.00:555][841]LogProjectBrowser: Found Engine Installation "4.26"(E:/Ian Beavers/Epic Games/UE_4.26)
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Enumerating Projects From Engine Ver: 4.26
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Looking for directories to scan from : C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/WindowsEditor
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/WindowsEditor not found, looking for directories in C:/Users/Ian Beavers/AppData/Local/UnrealEngine/4.26/Saved/Config/Windows
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Searching for previously created project directories...
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found directory: "D:/Unreal Projects"
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/TestProject1/TestProject1.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/FINALPROJECTSHBEEB/FinalProject.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in recently opened files
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" in previously created project directory
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/FinalProject/FinalProject.uproject" in previously created project directory
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LibraryAssets/LibraryAssets.uproject" in previously created project directory
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/LightingLevel/LightingLevel.uproject" in previously created project directory
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Found project "D:/Unreal Projects/MovementLevel/MovementLevel.uproject" in previously created project directory
+[2022.09.05-20.37.00:556][841]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.09.05-20.37.00:557][841]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2022.09.05-20.37.00:633][841]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.05-20.37.03:723][206]LogSlate: Window 'New Project' being destroyed
+[2022.09.05-20.37.07:973][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.09.05-20.37.08:030][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Muh_Gamemode" FILE="D:/Unreal Projects/BackroomsGraybox/Content/Muh_Gamemode.uasset" SILENT=true
+[2022.09.05-20.37.08:035][690]LogSavePackage: Moving output files for package: /Game/Muh_Gamemode
+[2022.09.05-20.37.08:035][690]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/Muh_Gamemode84B01E1E439742E6126F64B1369C8363.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/Muh_Gamemode.uasset'
+[2022.09.05-20.37.08:048][690]AssetCheck: New page: Asset Save: Muh_Gamemode
+[2022.09.05-20.37.08:048][690]LogContentValidation: Display: Validating Blueprint /Game/Muh_Gamemode.Muh_Gamemode
+[2022.09.05-20.37.55:115][ 65]LogSlate: Window 'Message' being destroyed
+[2022.09.05-20.37.55:123][ 65]Message dialog closed, result: No, title: Message, text: Would you like to export the materials as images (slower)?
+[2022.09.05-20.38.21:905][613]LogSlate: Window 'New Level' being destroyed
+[2022.09.05-20.38.21:913][613]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.05-20.38.21:913][613]LightingResults: New page: Lighting Build
+[2022.09.05-20.38.21:913][613]LoadErrors: New page: Loading map: OpenWorld.umap
+[2022.09.05-20.38.21:915][613]LogWorld: UWorld::CleanupWorld for BackroomsGraybox9_3_2022, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.38.21:915][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.38.21:918][613]MapCheck: New page: Map Check
+[2022.09.05-20.38.21:918][613]LightingResults: New page: Lighting Build
+[2022.09.05-20.38.21:957][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-20.38.21:969][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.09.05-20.38.21:976][613]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2022.09.05-20.38.21:976][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.38.21:976][613]LogAIModule: Creating AISystem for world Untitled_2
+[2022.09.05-20.38.21:977][613]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.05-20.38.21:977][613]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.05-20.38.22:274][613]LogWorldPartition: Display: WorldPartition initialize took 297 ms
+[2022.09.05-20.38.22:529][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.05-20.38.22:563][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.05-20.38.22:564][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.05-20.38.22:579][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15.065ms to complete.
+[2022.09.05-20.38.22:579][613]LogFileHelpers: Loading map 'OpenWorld' took 0.666
+[2022.09.05-20.38.31:571][ 13]LogSlate: Window 'Message' being destroyed
+[2022.09.05-20.38.31:579][ 13]Message dialog closed, result: Ok, title: Message, text: You must select a path.
+[2022.09.05-20.38.32:683][ 13]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2022.09.05-20.38.36:375][ 13]LogSlate: Window 'Message' being destroyed
+[2022.09.05-20.38.36:382][ 13]Message dialog closed, result: Ok, title: Message, text: You can not create an asset named 'BackroomsGraybox9_3_2022' because there is already a map file with this name in this folder.
+[2022.09.05-20.38.36:382][ 13]LogAssetTools: Warning: You can not create an asset named 'BackroomsGraybox9_3_2022' because there is already a map file with this name in this folder.
+[2022.09.05-20.38.43:850][859]LogSlate: Window 'Open Asset' being destroyed
+[2022.09.05-20.38.43:856][859]LogSlate: Window 'Open Asset' being destroyed
+[2022.09.05-20.38.49:479][515]LogSlate: Window 'Open Level' being destroyed
+[2022.09.05-20.39.00:826][768]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2022.09.05-20.39.00:889][768]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 D:/Unreal Projects/Packages/BackroomsGraybox9_3_2022_TEST.obj)
+[2022.09.05-20.39.00:917][768]LogFbx: Loading FBX Scene from D:/Unreal Projects/Packages/BackroomsGraybox9_3_2022_TEST.obj
+[2022.09.05-20.39.01:053][768]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.05-20.39.04:508][768]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2022.09.05-20.39.04:543][768]LogMaterial: Display: Missing cached shadermap for BSPMat in PCD3D_SM5, Default, SM5 (DDC key hash: 025E8ABB44D3121192B826B93821C4B20465FD69), compiling. 
+[2022.09.05-20.39.04:605][768]LogStaticMesh: Display: Building static mesh BSP...
+[2022.09.05-20.39.04:771][768]LogStaticMesh: Built static mesh [0.17s] /Game/BSP.BSP
+[2022.09.05-20.39.04:835][768]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BSP) ...
+[2022.09.05-20.39.04:846][768]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.09.05-20.39.04:846][768]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.09.05-20.39.04:847][768]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_2.Untitled_2:PersistentLevel.Actor_UAID_4CCC6A68FF919F3301_1976206000
+[2022.09.05-20.39.04:847][768]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_2.Untitled_2:PersistentLevel.Actor_UAID_4CCC6A68FF919F3301_1976206000
+[2022.09.05-20.39.04:957][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.09.05-20.39.04:966][768]PIE: Warning: AttachTo: '/Temp/Untitled_2.Untitled_2:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_UAID_4CCC6A68FF919F3301_1976325001.DefaultSceneRoot' is not static  (in blueprint "FbxScene_BackroomsGraybox9_3_2022_TEST"), cannot attach '/Temp/Untitled_2.Untitled_2:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_UAID_4CCC6A68FF919F3301_1976325001.BackroomsGraybox9_3_2022_TEST_root' which is static to it. Aborting.
+[2022.09.05-20.39.04:969][768]PIE: Warning: AttachTo: '/Temp/Untitled_2.Untitled_2:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_UAID_4CCC6A68FF919F3301_1976325001.DefaultSceneRoot' is not static  (in blueprint "FbxScene_BackroomsGraybox9_3_2022_TEST"), cannot attach '/Temp/Untitled_2.Untitled_2:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_UAID_4CCC6A68FF919F3301_1976325001.BackroomsGraybox9_3_2022_TEST_root' which is static to it. Aborting.
+[2022.09.05-20.39.04:977][768]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FbxScene_BackroomsGraybox9_3_2022_TEST.FbxScene_BackroomsGraybox9_3_2022_TEST
+[2022.09.05-20.39.04:977][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.39.05:630][768]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.05-20.39.05:725][768]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_BackroomsGraybox9_3_2022_TEST"), cannot attach '/Engine/Transient.World_3:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.BackroomsGraybox9_3_2022_TEST_root' which is static to it. Aborting.
+[2022.09.05-20.39.05:815][768]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_BackroomsGraybox9_3_2022_TEST"), cannot attach '/Engine/Transient.World_3:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.BackroomsGraybox9_3_2022_TEST_root' which is static to it. Aborting.
+[2022.09.05-20.39.05:815][768]LogViewport: Scene viewport resized to 738x511, mode Windowed.
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: ================================================
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 1.39 s
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 1.46
+[2022.09.05-20.39.06:514][802]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.46 s
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: Average processing rate: 0.68 jobs/sec
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: Effective parallelization: 0.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2022.09.05-20.39.06:515][802]LogShaderCompilers: Display: ================================================
+[2022.09.05-20.39.07:144][835]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_BackroomsGraybox9_3_2022_TEST"), cannot attach '/Engine/Transient.World_4:PersistentLevel.FbxScene_BackroomsGraybox9_3_2022_TEST_C_0.BackroomsGraybox9_3_2022_TEST_root' which is static to it. Aborting.
+[2022.09.05-20.39.11:999][211]LogSlate: Window 'FbxScene_BackroomsGraybox9_3_2022_TEST' being destroyed
+[2022.09.05-20.39.12:007][211]LogSlate: Window 'FbxScene_BackroomsGraybox9_3_2022_TEST' being destroyed
+[2022.09.05-20.39.12:010][211]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.39.12:010][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.39.14:901][542]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-20.39.14:906][542]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-20.39.16:826][769]Cmd: DELETE
+[2022.09.05-20.39.16:826][769]Cmd: ACTOR DELETE
+[2022.09.05-20.39.16:829][769]LogEditorActor: Deleted Actor: FbxScene_BackroomsGraybox9_3_2022_TEST_C
+[2022.09.05-20.39.16:899][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.09.05-20.39.16:904][769]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2022.09.05-20.39.22:658][230]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.39.22:666][230]Cmd: MAP LOAD FILE="D:/Unreal Projects/BackroomsGraybox/Content/BackroomsGraybox9_3_2022.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.05-20.39.22:666][230]LightingResults: New page: Lighting Build
+[2022.09.05-20.39.22:667][230]LoadErrors: New page: Loading map: BackroomsGraybox9_3_2022.umap
+[2022.09.05-20.39.22:699][230]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.39.22:699][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.39.22:700][230]MapCheck: New page: Map Check
+[2022.09.05-20.39.22:700][230]LightingResults: New page: Lighting Build
+[2022.09.05-20.39.22:725][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-20.39.22:742][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.09.05-20.39.22:802][230]LogAudio: Display: Audio Device (ID: 1) registered with world 'BackroomsGraybox9_3_2022'.
+[2022.09.05-20.39.22:803][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.39.22:803][230]LogAIModule: Creating AISystem for world BackroomsGraybox9_3_2022
+[2022.09.05-20.39.22:803][230]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.05-20.39.22:803][230]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.05-20.39.22:807][230]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.09.05-20.39.22:821][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.05-20.39.22:860][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.09.05-20.39.22:865][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.05-20.39.22:865][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.09.05-20.39.22:865][230]LogFileHelpers: Loading map 'BackroomsGraybox9_3_2022' took 0.199
+[2022.09.05-20.39.59:353][888]Launching UnrealBuildTool... [E:/Ian Beavers/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="E:/Ian Beavers/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.09.05-20.39.59:486][888]Launching UnrealBuildTool... [E:/Ian Beavers/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="E:/Ian Beavers/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.09.05-20.39.59:591][888]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.09.05-20.39.59:592][888]LogTurnkeySupport: Display: Adding device menu item for IANDESKTOPNZXT
+[2022.09.05-20.39.59:592][888]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject"  -Device=Win64@IANDESKTOPNZXT'
+[2022.09.05-20.39.59:592][888]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/BackroomsGraybox/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/BackroomsGraybox/BackroomsGraybox.uproject"  -Device=Win64@IANDESKTOPNZXT" -nocompile ]
+[2022.09.05-20.39.59:759][905]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.05-20.40.04:655][401]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.05-20.40.04:788][401]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.05-20.40.31:133][562]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.40.31:138][562]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-20.41.02:755][246]LogEditorBuildUtils: Warning: Cannot connect to source control; automated build aborted.
+[2022.09.05-20.41.02:755][246]BuildAndSubmitErrors: New page: Build and Submit
+[2022.09.05-20.41.02:755][246]BuildAndSubmitErrors: Error: Cannot connect to source control; automated build aborted.
+[2022.09.05-20.41.02:793][246]LogSlate: Window 'Build and Submit' being destroyed
+[2022.09.05-20.41.05:930][618]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-20.41.05:936][618]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-20.41.11:586][280]Cmd: ACTOR SELECT ALL
+[2022.09.05-20.41.22:232][816]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Ian Beavers/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Unreal Projects/BackroomsGraybox/" -install="D:/Unreal Projects/Packages/BackroomsGraybox.zip"" -nocompile ]
+[2022.09.05-20.41.22:312][816]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): It was not possible to find any compatible framework version
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): The framework 'Microsoft.WindowsDesktop.App', version '3.1.0' was not found.
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)):   - The following frameworks were found:
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)):       5.0.13 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): You can resolve the problem by installing the specified framework and/or SDK.
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): The specified framework can be found at:
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)):   - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.41.22:679][819]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2022.09.05-20.42.03:635][189]LogEditorViewport: Clicking Background
+[2022.09.05-20.43.52:818][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.09.05-20.43.52:921][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxScene_BackroomsGraybox9_3_2022_TEST" FILE="D:/Unreal Projects/BackroomsGraybox/Content/FbxScene_BackroomsGraybox9_3_2022_TEST.uasset" SILENT=true
+[2022.09.05-20.43.52:925][861]LogSavePackage: Moving output files for package: /Game/FbxScene_BackroomsGraybox9_3_2022_TEST
+[2022.09.05-20.43.52:925][861]LogSavePackage: Moving 'D:/Unreal Projects/BackroomsGraybox/Saved/FbxScene_BackroomsGraybox9_3_2028898ED1D497C77A1F97F70BE3292FBBA.tmp' to 'D:/Unreal Projects/BackroomsGraybox/Content/FbxScene_BackroomsGraybox9_3_2022_TEST.uasset'

@@ -1,0 +1,11 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=5310.000 Y=-1540.000 Z=-770.000), Max=(X=7310.000 Y=460.000 Z=1230.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/BackroomsGraybox9_3_2022
+   |  ActorDescs:
+   |      - Guid:438BD03042968AA5F4F281A6BA256DC6 Class:Actor Name:Muh_Door_C_UAID_4CCC6A68FF91853501_1730588535 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=5896.000 Y=-838.000 Z=40.000), Max=(X=6184.000 Y=-582.000 Z=290.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:716C9B4F443C0C3747B540BC852C7502 Class:PlayerStart Name:PlayerStart_UAID_4CCC6A68FF91073301_1894314250 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=6650.000 Y=-580.000 Z=50.000), Max=(X=6730.000 Y=-500.000 Z=234.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:8D76E0D44FDBB3A193BF4C9A637572AD Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:8D7E8BA643F8EFE1D2221B8327970FA4 Class:PointLight Name:PointLight_UAID_4CCC6A68FF91853501_1737378536 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=5310.000 Y=-1540.000 Z=-770.000), Max=(X=7310.000 Y=460.000 Z=1230.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
