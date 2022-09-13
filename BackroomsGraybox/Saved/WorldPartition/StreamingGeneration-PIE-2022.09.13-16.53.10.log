@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/BackroomsGraybox9_3_2022
+   |  ActorDescs:
+   |      - Guid:716C9B4F443C0C3747B540BC852C7502 Class:PlayerStart Name:PlayerStart_UAID_4CCC6A68FF91073301_1894314250 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=6650.000 Y=-580.000 Z=50.000), Max=(X=6730.000 Y=-500.000 Z=234.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:8D76E0D44FDBB3A193BF4C9A637572AD Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
